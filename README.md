@@ -1,3 +1,3 @@
 # water_tracker
 
-![Screenshot_1706159279](https://github.com/Bayzidbaky1/Water-Tracker-App/assets/106180500/3db769d7-ffe9-40c2-97e1-844c30ba36ef)
+![Screenshot_1706177811](https://github.com/Bayzidbaky1/Water-Tracker-App/assets/106180500/99fa272e-af39-418d-9dcb-a58bdde6b089)
